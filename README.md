@@ -1,4 +1,3 @@
-TravX-Admin-Panel
-=================
+How do I upload things here??
 
-TravianX Admin Panel [Reworked]
+:(
